@@ -16,7 +16,8 @@ However, neither of them describes the intellectual property management system f
 1. Overview of the intellectual property management process
 ISO56005 adds the intellectual property management process to the innovation management process, and manages intellectual property based on the identification, creation, verification, development, and deployment processes of innovation management. In GB/T 29490-2023, the PDCA cycle is established on the premise of leadership support and is divided into modules such as leadership, planning, support, operation, performance evaluation, and improvement.
 In this article, we refer to the NIST CSF 2.0 framework and integrate the technical solutions in GB/T 29490-2023 and ISO56005 to propose an intellectual property management based on each stage of the entire life cycle of intellectual property. Framework to realize our intellectual property management, including seven functions: governance, identification, protection, operation, monitoring, response, and recovery. Among them, governance establishes and monitors the organization's IP risk management strategies, expectations and policies and is cross-cutting and central to this framework.
-![Uploading image.png…]()
+
+![image](https://github.com/birddish/Intellectual-property-management./assets/17795144/c27661a7-28c5-4e9b-a7be-b47c4304b206)
 
 The above figure is adapted from NIST.CSWP.29.ipd
 Identification, including the identification of the intellectual property itself and the identification of intellectual property risks, helps determine the organization's current intellectual property assets and their risks ;
