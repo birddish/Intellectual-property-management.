@@ -1,4 +1,4 @@
-![image](https://github.com/birddish/Intellectual-property-management./assets/17795144/fd6144eb-8bd3-465e-90fc-ff5c30443f4d)# Intellectual-property-management.
+# Intellectual-property-management.
 我是一个中国的专利律师，我的主要工作是保护客户的知识产权
 I am a Chinese patent attorney. My main job is to protect clients’ intellectual property rights and
 
@@ -16,6 +16,7 @@ However, neither of them describes the intellectual property management system f
 1. Overview of the intellectual property management process
 ISO56005 adds the intellectual property management process to the innovation management process, and manages intellectual property based on the identification, creation, verification, development, and deployment processes of innovation management. In GB/T 29490-2023, the PDCA cycle is established on the premise of leadership support and is divided into modules such as leadership, planning, support, operation, performance evaluation, and improvement.
 In this article, we refer to the NIST CSF 2.0 framework and integrate the technical solutions in GB/T 29490-2023 and ISO56005 to propose an intellectual property management based on each stage of the entire life cycle of intellectual property. Framework to realize our intellectual property management, including seven functions: governance, identification, protection, operation, monitoring, response, and recovery. Among them, governance establishes and monitors the organization's IP risk management strategies, expectations and policies and is cross-cutting and central to this framework.
+![Uploading image.png…]()
 
 The above figure is adapted from NIST.CSWP.29.ipd
 Identification, including the identification of the intellectual property itself and the identification of intellectual property risks, helps determine the organization's current intellectual property assets and their risks ;
@@ -42,6 +43,7 @@ e) Establish strategies, systems, culture and innovation mechanisms for intellec
 4. Governance model and framework of corporate intellectual property governance
 4.1 Intellectual Property Governance Model
 The enterprise intellectual property governance model includes the internal and external requirements of governance, governance subjects, governance methods, and the management system of intellectual property and its application, as shown in the following figure:
+![image](https://github.com/birddish/Intellectual-property-management./assets/17795144/a4295328-e0da-44f8-846f-002c1e03c07b)
 
 The above picture is adapted from GB/T 34960.1-2017
 The governance body takes the organizational charter, regulatory responsibilities, stakeholder expectations, business pressure and business requirements as driving forces to establish a governance process of assessment, guidance, and supervision and clarify tasks.
